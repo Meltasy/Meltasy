@@ -1,6 +1,6 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top" width="65%">
+<td valign="top" width="65%" style="border:none;">
 
 <h1>Hi, I'm Melissa 👋</h1>
 <p>I'm currently looking for a position as a junior developer in France.</p>
@@ -20,6 +20,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" alt="Prisma ORM" />
 </div>
 
+</td>
+
+<td valign="middle" width="35%" align="center" style="border:none;">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=meltasy&layout=compact&hide_title=1&card_width=300"
+  alt="Most commonly used languages in my repos."
+/>
+
+</td>
+</tr>
+<tr>
+
+<td colspan="2" style="border:none;">
+
 <h2>Quick Facts</h2>
 <ul>
   <li>🔭 I’m currently working on a <a href="https://github.com/Meltasy/chat-app-front">Chat App</a></li>
@@ -29,12 +44,6 @@
   <li>🔗 Connect with me on <a href="https://www.linkedin.com/in/vialaneixmelissa/">LinkedIn</a>.</li>
   <li>🎆 Fun fact: 我会说、读、写普通话！</li>
 </ul>
-
-</td>
-
-<td valign="top" width="35%" align="center">
-
-<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meltasy&layout=compact&hide_title=1&card_width=300" alt="Most commonly used languages in my repos." />
 
 </td>
 </tr>
