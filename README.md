@@ -1,11 +1,20 @@
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="top" width="65%" style="border:none;">
+<table
+  cellspacing="0"
+  cellpadding="0"
+  style="border-collapse:collapse; border:none; background:transparent; width:100%;
+>
+<tr style="background:transparent; border:none;">
 
-<h1>Hi, I'm Melissa 👋</h1>
+<td
+  valign="top"
+  width="65%"
+  style="border:none; background:transparent; padding:0;"
+>
+
+<h2>Hi, I'm Mélissa 👋</h2>
 <p>I'm currently looking for a position as a junior developer in France.</p>
 
-<h2>My toolbox:</h2>
+<h3>My toolbox</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
@@ -22,7 +31,12 @@
 
 </td>
 
-<td valign="middle" width="35%" align="center" style="border:none;">
+<td
+  valign="middle"
+  width="35%"
+  align="center"
+  style="border:none; background:transparent; padding:0;"
+>
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=meltasy&layout=compact&hide_title=1&card_width=300"
@@ -31,11 +45,14 @@
 
 </td>
 </tr>
-<tr>
 
-<td colspan="2" style="border:none;">
+<tr style="background:transparent; border:none;">
+<td
+  colspan="2"
+  style="border:none; background:transparent; padding-top:1rem;"
+>
 
-<h2>Quick Facts</h2>
+<h3>Quick Facts</h3>
 <ul>
   <li>🔭 I’m currently working on a <a href="https://github.com/Meltasy/chat-app-front">Chat App</a></li>
   <li>🌱 I’m currently learning TypeScript.</li>
