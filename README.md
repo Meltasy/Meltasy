@@ -1,7 +1,7 @@
 <table
   cellspacing="0"
   cellpadding="0"
-  style="border-collapse:collapse; border:none; background:transparent; width:100%;
+  style="border-collapse:collapse; border:none; background:transparent; width:100%;"
 >
 <tr style="background:transparent; border:none;">
 
@@ -54,7 +54,7 @@
 
 <h3>Quick Facts</h3>
 <ul>
-  <li>🔭 I’m currently working on a <a href="https://github.com/Meltasy/chat-app-front">Chat App</a></li>
+  <li>🔭 I’m currently working on a <a href="https://github.com/Meltasy/chat-app-front">Chat App</a>.</li>
   <li>🌱 I’m currently learning TypeScript.</li>
   <li>🤔 I can't decide which backend language to learn next: Python, Java, PHP or Go!</li>
   <li>💻 Check out <a href="https://melissa-vialaneix.netlify.app/">my website</a>.</li>
