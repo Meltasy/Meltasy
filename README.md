@@ -39,7 +39,7 @@
 >
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=meltasy&layout=compact&hide_title=1&card_width=300"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=meltasy&layout=donut&hide_title=1&card_width=300"
   alt="Most commonly used languages in my repos."
 />
 
