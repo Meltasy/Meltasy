@@ -12,7 +12,7 @@
 >
 
 <h2>Hi, I'm Mélissa 👋</h2>
-<p>I'm currently looking for a position as a junior developer in France.</p>
+<p>I'm an experienced digital product manager actively transitioning into software development, with more than ten years of experience leading web, mobile, and interactive digital products for major international publishers. I have strong expertise in the product lifecycle, from roadmap planning to production deployment, which is now complemented by hands-on technical skills in full-stack development.</p>
 
 <h3>My toolbox</h3>
 <div align="center">
