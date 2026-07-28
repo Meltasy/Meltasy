@@ -12,7 +12,8 @@
 >
 
 <h2>Hi, I'm Mélissa 👋</h2>
-<p>I'm an experienced digital product manager actively transitioning into software development, with more than ten years of experience leading web, mobile, and interactive digital products for major international publishers. I have strong expertise in the product lifecycle, from roadmap planning to production deployment, which is now complemented by hands-on technical skills in full-stack development.</p>
+<h4>Full-Stack Developer | Digital Product Manager | Learning Designer</h4>
+<p>I have more than fifteen years of experience leading web, mobile, and interactive digital products for major international publishers, from requirements gathering through to production, complemented by hands-on full-stack development skills built over the past two years. I'm now looking for a full-time position with a company in the Lyon area where I can put this combined technical and product expertise to work, whether in development, product management, or learning design.</p>
 
 <h3>My toolbox</h3>
 <div align="center">
