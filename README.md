@@ -12,8 +12,8 @@
 >
 
 <h2>Hi, I'm Mélissa 👋</h2>
-<h4>Full-Stack Developer | Digital Product Manager | Learning Designer</h4>
-<p>I have more than fifteen years of experience leading web, mobile, and interactive digital products for major international publishers, from requirements gathering through to production, complemented by hands-on full-stack development skills built over the past two years. I'm now looking for a full-time position with a company in the Lyon area where I can put this combined technical and product expertise to work, whether in development, product management, or learning design.</p>
+<h4>Product Owner | Full-Stack Developer | Instructional Designer</h4>
+<p>Over ten years' experience as a Product Owner for major international language-learning publishers (Cambridge University Press, Oxford University Press, Pearson Education, Macmillan Education, Hodder Education). I led the design and development of digital learning tools, including platforms, applications and interactive resources for students, teachers and parents. I worked closely with development teams, from defining functional requirements through to production release. Over the past two years, I've complemented this product expertise with solid full-stack development skills (Node.js, Express, TypeScript, React, PostgreSQL, REST APIs). I'm now looking for a full-time role in the tech sector in the Lyon area, where I can draw on this dual technical and product expertise, whether as a developer, Product Owner or instructional designer..</p>
 
 <h3>My toolbox</h3>
 <div align="center">
