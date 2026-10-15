@@ -1,19 +1,21 @@
 <table
   cellspacing="0"
   cellpadding="0"
-  style="border-collapse:collapse; border:none; background:transparent; width:100%;"
+  style="border-collapse:collapse; width:100%;"
 >
-<tr style="background:transparent; border:none;">
+<tr>
 
 <td
   valign="top"
-  width="65%"
-  style="border:none; background:transparent; padding:0;"
+  colspan="2"
+  style="padding:0;"
 >
 
 <h2>Hi, I'm Mélissa 👋</h2>
-<h4>Product Owner | Full-Stack Developer | Instructional Designer</h4>
-<p>Over ten years' experience as a Product Owner for major international language-learning publishers. I led the design and development of digital learning tools, including platforms, applications and interactive resources for students, teachers and parents. I worked closely with development teams, from defining functional requirements through to production release. Over the past two years, I've complemented this product expertise with solid full-stack development skills. I'm now looking for a full-time role in the tech sector in the Lyon area, where I can apply my dual expertise in both technical and product areas.</p>
+<h4>Product Owner | Full-Stack Developer | Learning Designer</h4>
+<p>For more than ten years, I led the design and development of digital learning products for major international publishers, including Cambridge University Press, Macmillan Education, Pearson and Oxford University Press: web platforms, apps, 3D learning games and interactive content used by millions of learners worldwide. Working closely with development teams, from functional requirements through to release, I was often the translator between the product side and the technical side.</p>
+<p>Since 2024, I've crossed over completely and trained as a full-stack developer through The Odin Project, where I also contributed to the open-source curriculum. I build with TypeScript, Node.js, Express, React and PostgreSQL, and have worked on Python/Quart and PHP/Laravel codebases.</p>
+<p>I'm looking for a full-time role in the Lyon area where product thinking and technical skills meet.</p>
 
 <h3>My toolbox</h3>
 <div align="center">
@@ -28,40 +30,42 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="ExpressJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" alt="Prisma ORM" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" alt="Socket.IO" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
 </div>
+
+</td>
+</tr>
+
+<tr>
+<td
+  valign="middle"
+  width="50%"
+  style="padding-top:1rem;"
+>
+
+<h3>Quick Facts</h3>
+<ul>
+  <li>🚀 I recently built a real-time chat app: <a href="https://github.com/Meltasy/chat-app-front">frontend</a> | <a href="https://github.com/Meltasy/chat-app-back">backend</a>.</li>
+  <li>🌱 I’m currently learning Python.</li>
+  <li>💻 Check out <a href="https://melissa-vialaneix.netlify.app/">my website</a>.</li>
+  <li>🔗 Connect with me on <a href="https://www.linkedin.com/in/vialaneixmelissa/">LinkedIn</a>.</li>
+  <li>🎆 Fun fact: 我会说、读、写普通话！</li>
+</ul>
 
 </td>
 
 <td
   valign="middle"
-  width="35%"
+  width="50%"
   align="center"
-  style="border:none; background:transparent; padding:0;"
+  style="padding:0;"
 >
 
 <img
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=meltasy&layout=donut-vertical&hide_title=1&card_width=300"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=meltasy&layout=donut&hide_title=1&card_width=300"
   alt="Most commonly used languages in my repos."
 />
-
-</td>
-</tr>
-
-<tr style="background:transparent; border:none;">
-<td
-  colspan="2"
-  style="border:none; background:transparent; padding-top:1rem;"
->
-
-<h3>Quick Facts</h3>
-<ul>
-  <li>🔭 I’m currently working on a <a href="https://github.com/Meltasy/chat-app-front">Chat App</a>.</li>
-  <li>🌱 I’m currently learning TypeScript.</li>
-  <li>🤔 I can't decide which backend language to learn next: Python, Java, PHP or Go!</li>
-  <li>💻 Check out <a href="https://melissa-vialaneix.netlify.app/">my website</a>.</li>
-  <li>🔗 Connect with me on <a href="https://www.linkedin.com/in/vialaneixmelissa/">LinkedIn</a>.</li>
-  <li>🎆 Fun fact: 我会说、读、写普通话！</li>
-</ul>
 
 </td>
 </tr>
